@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acf0bacd2b4441949942f68527ec5f04, type: 3}
+  m_Name: DataItemPriceTakeOff
+  m_EditorClassIdentifier: 
+  item: {fileID: 11400000, guid: 69d6dce52ff871140b11afd172bfb9fd, type: 2}
+  body: {fileID: 4395442321659306248, guid: 11fde94a0f830884a867703f33105b19, type: 3}
+  price:
+    data: {fileID: 11400000, guid: 2121a7e68e406554593a21cb860220b0, type: 2}
+    amount: 0
+    counter: {fileID: 0}
+    alternativeAmount: "\u041A\u0443\u043F\u0438\u0442\u044C"
